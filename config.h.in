@@ -1,0 +1,6 @@
+#cmakedefine WIN32 @WIN32@
+#cmakedefine MSVC @MSVC@
+
+#cmakedefine UNIX @UNIX@
+
+#cmakedefine01 ARCH64
